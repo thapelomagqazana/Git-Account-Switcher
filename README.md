@@ -20,13 +20,24 @@ Managing multiple Git accounts for different purposes can be cumbersome. This sc
    ```bash
    git clone https://github.com/thapelomagqazana/Git-Account-Switcher.git
 
-2. cd Git-Account-Switcher
+2. Move into the project folder:
+    
+    ```bash
+    cd Git-Account-Switcher
 
-2. chmod +x git_account_switch.py
+3. Make the script executable:
 
-3. python3 git_account_switch.py
+    ```bash
+    chmod +x git_account_switch.py
+
+4. Run the script: 
+
+    ```bash
+    python3 git_account_switch.py
 
 ## Example
+
+```bash
 
 Welcome to Git Account Switcher. This script was designed by Thapelo Magqazana
 
